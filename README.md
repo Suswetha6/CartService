@@ -1,6 +1,7 @@
 # CartService
 The project follows MVC framework which can be seen by the differenct packages created for modals,services,controllers and datatype objects.
 The api has a total of 5 functions that can be performed :
+(!The Screeshots of the implementations in postman are in the Postman folder)
 1.getSingleCart - it will get the information of the cart whose id is passed
     Implementation in Postman :
     /getSingleCart.png
@@ -20,4 +21,3 @@ The api has a total of 5 functions that can be performed :
 5.DeleteCart - this will delete the cart with the specified id from the data
     Implementation in Postman:
     /DeleteCart.png
-    
